@@ -1,0 +1,8 @@
+name: DayNightControl
+main: me.kuckoobrain.DayNightControl.DayNightControl
+version: 0.1
+author: kuckoobrain
+website: www.bukkit.org
+description: >
+              With this plugin you can Control Day and Night!
+commands:
